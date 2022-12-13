@@ -1,0 +1,471 @@
+﻿Installing assembly 'D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\DAWNSTORE\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe
+Installing service HSPBroadcast...
+Creating EventLog source HSPBroadcast in log Application...
+Rolling back assembly 'D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\DAWNSTORE\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe
+Restoring event log to previous state for source HSPBroadcast.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\DAWNSTORE\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe
+Installing service HSPBroadcast...
+Service HSPBroadcast has been successfully installed.
+Creating EventLog source HSPBroadcast in log Application...
+Committing assembly 'D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\DAWNSTORE\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe
+Uninstalling assembly 'D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\DAWNSTORE\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe
+Removing EventLog source printing.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\DAWNSTORE\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe
+Removing EventLog source printing.
+Warning: The source printing is not registered on the local machine.
+Service printing is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\DAWNSTORE\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe
+Installing service printing...
+Service printing has been successfully installed.
+Creating EventLog source printing in log Application...
+Committing assembly 'D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\DAWNSTORE\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe
+Uninstalling assembly 'D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\DAWNSTORE\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe
+Removing EventLog source printing.
+Service printing is being removed from the system...
+Service printing was successfully removed from the system.
+Installing assembly 'D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\DAWNSTORE\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe
+Installing service printing...
+Service printing has been successfully installed.
+Creating EventLog source printing in log Application...
+Committing assembly 'D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\DAWNSTORE\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe
+Uninstalling assembly 'D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\DAWNSTORE\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe
+Removing EventLog source printing.
+Service printing is being removed from the system...
+Service printing was successfully removed from the system.
+Installing assembly 'D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\DAWNSTORE\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe
+Installing service printing...
+Service printing has been successfully installed.
+Creating EventLog source printing in log Application...
+Committing assembly 'D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\DAWNSTORE\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe
+Uninstalling assembly 'D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\DAWNSTORE\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe
+Removing EventLog source printing.
+Service printing is being removed from the system...
+Service printing was successfully removed from the system.
+Installing assembly 'D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\DAWNSTORE\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe
+Installing service printing...
+Service printing has been successfully installed.
+Creating EventLog source printing in log Application...
+Committing assembly 'D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\DAWNSTORE\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe
+Uninstalling assembly 'D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\DAWNSTORE\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = D:\DAWNSTORE\printing\printing\bin\Debug\printing.exe
+Removing EventLog source printing.
+Service printing is being removed from the system...
+Service printing was successfully removed from the system.
+Attempt to stop service printing.
+Installing assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Installing service printing...
+Creating EventLog source printing in log Application...
+Rolling back assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Restoring event log to previous state for source printing.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Installing service printing...
+Service printing has been successfully installed.
+Creating EventLog source printing in log Application...
+Committing assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Uninstalling assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Removing EventLog source printing.
+Service printing is being removed from the system...
+Service printing was successfully removed from the system.
+Installing assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Installing service printing...
+Service printing has been successfully installed.
+Creating EventLog source printing in log Application...
+Committing assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Uninstalling assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Removing EventLog source printing.
+Service printing is being removed from the system...
+Service printing was successfully removed from the system.
+Installing assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Installing service printing...
+Service printing has been successfully installed.
+Creating EventLog source printing in log Application...
+Committing assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Uninstalling assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Removing EventLog source printing.
+Service printing is being removed from the system...
+Service printing was successfully removed from the system.
+Installing assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Installing service printing...
+Service printing has been successfully installed.
+Creating EventLog source printing in log Application...
+Committing assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Uninstalling assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Removing EventLog source printing.
+Service printing is being removed from the system...
+Service printing was successfully removed from the system.
+Installing assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Installing service printing...
+Service printing has been successfully installed.
+Creating EventLog source printing in log Application...
+Committing assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Uninstalling assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Removing EventLog source printing.
+Service printing is being removed from the system...
+Service printing was successfully removed from the system.
+Installing assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Installing service printing...
+Service printing has been successfully installed.
+Creating EventLog source printing in log Application...
+Committing assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Uninstalling assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Removing EventLog source printing.
+Service printing is being removed from the system...
+Service printing was successfully removed from the system.
+Installing assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Installing service printing...
+Service printing has been successfully installed.
+Creating EventLog source printing in log Application...
+Committing assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Uninstalling assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Removing EventLog source printing.
+Service printing is being removed from the system...
+Service printing was successfully removed from the system.
+Installing assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Installing service printing...
+Service printing has been successfully installed.
+Creating EventLog source printing in log Application...
+Committing assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Uninstalling assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Removing EventLog source printing.
+Service printing is being removed from the system...
+Service printing was successfully removed from the system.
+Uninstalling assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Removing EventLog source printing.
+Warning: The source printing is not registered on the local machine.
+Service printing is being removed from the system...
+Service printing was successfully removed from the system.
+Installing assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Installing service printing...
+Creating EventLog source printing in log Application...
+Rolling back assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Restoring event log to previous state for source printing.
+Installing assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Installing service printing...
+Service printing has been successfully installed.
+Creating EventLog source printing in log Application...
+Committing assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Uninstalling assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Removing EventLog source printing.
+Service printing is being removed from the system...
+Service printing was successfully removed from the system.
+Installing assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Installing service printing...
+Service printing has been successfully installed.
+Creating EventLog source printing in log Application...
+Committing assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Uninstalling assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Removing EventLog source printing.
+Service printing is being removed from the system...
+Service printing was successfully removed from the system.
+Installing assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Installing service printing...
+Service printing has been successfully installed.
+Creating EventLog source printing in log Application...
+Committing assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Uninstalling assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Removing EventLog source printing.
+Service printing is being removed from the system...
+Service printing was successfully removed from the system.
+Installing assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Installing service printing...
+Service printing has been successfully installed.
+Creating EventLog source printing in log Application...
+Committing assembly 'C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPos\printing\printing\bin\Debug\printing.exe
+Installing assembly 'C:\xampp\htdocs\oPosSystem\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPosSystem\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPosSystem\printing\printing\bin\Debug\printing.exe
+Installing service printing...
+Service printing has been successfully installed.
+Creating EventLog source printing in log Application...
+Committing assembly 'C:\xampp\htdocs\oPosSystem\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPosSystem\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPosSystem\printing\printing\bin\Debug\printing.exe
+Uninstalling assembly 'C:\xampp\htdocs\oPosSystem\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPosSystem\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPosSystem\printing\printing\bin\Debug\printing.exe
+Removing EventLog source printing.
+Service printing is being removed from the system...
+Service printing was successfully removed from the system.
+Installing assembly 'C:\xampp\htdocs\oPosSystem\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPosSystem\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPosSystem\printing\printing\bin\Debug\printing.exe
+Installing service printing...
+Service printing has been successfully installed.
+Creating EventLog source printing in log Application...
+Committing assembly 'C:\xampp\htdocs\oPosSystem\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPosSystem\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPosSystem\printing\printing\bin\Debug\printing.exe
+Uninstalling assembly 'C:\xampp\htdocs\oPosSystem\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPosSystem\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPosSystem\printing\printing\bin\Debug\printing.exe
+Removing EventLog source printing.
+Service printing is being removed from the system...
+Service printing was successfully removed from the system.
+Installing assembly 'C:\xampp\htdocs\oPosSystem\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPosSystem\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPosSystem\printing\printing\bin\Debug\printing.exe
+Installing service printing...
+Service printing has been successfully installed.
+Creating EventLog source printing in log Application...
+Committing assembly 'C:\xampp\htdocs\oPosSystem\printing\printing\bin\Debug\printing.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\xampp\htdocs\oPosSystem\printing\printing\bin\Debug\printing.InstallLog
+   assemblypath = C:\xampp\htdocs\oPosSystem\printing\printing\bin\Debug\printing.exe

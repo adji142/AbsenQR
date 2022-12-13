@@ -1,0 +1,133 @@
+.block_ {
+    display: block;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0 0 8pt;
+    padding: 0
+    }
+.block_1 {
+    display: block;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0 0 10pt;
+    padding: 0
+    }
+.block_2 {
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    line-height: 1.2;
+    margin: 0 0 10pt;
+    padding: 0
+    }
+.block_3 {
+    display: block;
+    line-height: 1.2;
+    margin: 0 0 10pt;
+    padding: 0
+    }
+.block_4 {
+    display: block;
+    line-height: 1.2;
+    margin: 0 0 8pt;
+    padding: 0
+    }
+.block_5 {
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    line-height: 1.2;
+    margin: 0 0 8pt;
+    padding: 0
+    }
+.block_6 {
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0 0 10pt;
+    padding: 0
+    }
+.block_7 {
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0 0 8pt;
+    padding: 0
+    }
+.block_8 {
+    display: block;
+    font-style: italic;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0 0 10pt;
+    padding: 0
+    }
+.calibre {
+    display: block;
+    font-family: "Calibri", sans-serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    max-height: 100%;
+    line-height: 1.2;
+    max-width: 100%
+    }
+.calibre2 {
+    line-height: 1.2;
+    white-space: pre-wrap
+    }
+.calibre3 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.calibre4 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre5 {
+    max-height: 100%;
+    line-height: 1.2;
+    max-width: 100%
+    }
+.calibre6 {
+    max-height: 100%;
+    line-height: 1.2;
+    max-width: 100%
+    }
+.calibre7 {
+    max-height: 100%;
+    line-height: 1.2;
+    max-width: 100%
+    }
+.calibre8 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre9 {
+    max-height: 100%;
+    line-height: 1.2;
+    max-width: 100%
+    }
+.text_ {
+    color: #0563C1;
+    line-height: 1.2;
+    text-decoration: underline
+    }
+.text_1 {
+    font-style: italic;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.text_2 {
+    color: #0563C1;
+    font-weight: bold;
+    line-height: 1.2;
+    text-decoration: underline
+    }

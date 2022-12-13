@@ -1,0 +1,97 @@
+================================= BIG NOTE =================================
+
+SETELAH PROSES EXTRACT DAN MANIPULASI EPUB.
+CALIBRE HARUS DI BUKA DULU.
+UNTUK PULL MIME TYPE 
+
+================================= BIG NOTE =================================
+
+from -> to
+<html>
+To
+<?xml version='1.0' encoding='utf-8'?> 
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+==================================== Move ==================================== 
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+To
+blank
+==================================== Move ==================================== 
+
+<meta http-equiv=Content-Type
+To
+
+<!--<meta http-equiv=Content-Type
+
+<meta name=Generator
+To
+
+--><meta name=Generator
+
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+To
+<meta name="Generator" content="Microsoft Word 15 (filtered)"/>
+
+<style>
+To
+<style><![CDATA[
+
+<!--
+To
+Blank
+
+-->
+To
+Blank
+
+	{page:WordSection1;}
+
+]]></style>
+To
+]]></style>
+
+<body lang=EN-US link="#0563C1" vlink="#954F72">
+To
+<body lang="EN-US" link="#0563C1" vlink="#954F72">
+
+<div class=WordSection1>
+To
+<div class="WordSection1">
+
+<p class=MsoNormal
+To
+<p class="MsoNormal"
+
+<span lang=IN
+To
+<span lang="IN"
+
+font-family:"Arial","sans-serif"
+To
+font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+
+&#9668;
+To
+◄
+
+font-family:"Times New Roman","serif";
+To
+font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
+
+&nbsp;
+To
+Blank
+
+<![CDATA[<![CDATA[
+to
+<![CDATA[
+
+]]>]]>
+to
+]]>
+
+">
+<
+To
+"/>
+<

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bec9f6f4-d734-4d34-87b1-959487735444</dc:identifier>
+        <dc:title>Motivator Juni 21 PREV</dc:title>
+        <dc:creator opf:file-as="Books, Spirit" opf:role="aut">Spirit Books</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-03T17:00:00+00:00</dc:date>
+        <dc:publisher>Spirit Bookfield</dc:publisher>
+        <dc:language>ind</dc:language>
+        <dc:subject>Spirit Motivator</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Spirit Books&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Juni 2021"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2021-06-04T15:54:16+00:00"/>
+        <meta name="calibre:title_sort" content="Motivator Juni 21 PREV"/>
+    </metadata>
+    <guide/>
+</package>
