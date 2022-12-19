@@ -122,7 +122,7 @@ class home extends CI_Controller {
 	}
 	public function mstr_jabatan()
 	{
-		$this->load->view('V_Master/jabatan');
+		$this->load->view('V_Master/Jabatan');
 	}
 	public function mstr_device()
 	{
