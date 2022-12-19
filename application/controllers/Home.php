@@ -109,6 +109,10 @@ class home extends CI_Controller {
 	{
 		$this->load->view('V_Auth/users');
 	}
+	public function login()
+	{
+		$this->load->view('Index');
+	}
 
 	// Master Data
 
@@ -131,5 +135,20 @@ class home extends CI_Controller {
 	public function printLayout()
 	{
 		$this->load->view('V_Master/LayoutIDCard');
+	}
+	public function setting()
+	{
+		$this->load->view('V_Master/SettingCompany');
+	}
+
+	// Laporan
+
+	public function lap_attlog()
+	{
+		$this->load->view('V_Laporan/AttLog');
+	}
+	public function lap_rekapabsen()
+	{
+		$this->load->view('V_Laporan/LaporanRekapAbsen');
 	}
 }

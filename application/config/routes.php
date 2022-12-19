@@ -144,3 +144,8 @@ $route['departement'] = 'Home/mstr_dept';
 $route['jabatan'] = 'Home/mstr_jabatan';
 $route['device'] = 'Home/mstr_device';
 $route['karyawan'] = 'Home/mstr_karyawan';
+$route['setting'] = 'Home/setting';
+
+// Laporan
+$route['attlog'] = 'Home/lap_attlog';
+$route['rekapabsen'] = 'Home/lap_rekapabsen';

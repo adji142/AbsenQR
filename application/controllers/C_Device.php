@@ -49,6 +49,23 @@ class C_Device extends CI_Controller {
 		echo json_encode($data);
 	}
 
+	public function FindByDeviceID()
+	{
+		$data = array('success' => false ,'message'=>array(),'data' => array());
+		$UniqKey = $this->input->post('UniqKey');
+
+		$rs = $this->ModelsExecuteMaster->FindData(array('UniqKey'=>$UniqKey),'tdevice');
+
+		if ($rs->num_rows()>0) {
+			$data['success'] = true;
+			$data['data'] = $rs->result();
+		}
+		else{
+			$data['message'] = 'No Record Found';
+		}
+		echo json_encode($data);
+	}
+
 	public function CRUD()
 	{
 		$data = array('success' => false ,'message'=>array());

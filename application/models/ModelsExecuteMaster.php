@@ -51,6 +51,12 @@ class ModelsExecuteMaster extends CI_Model
 	{
 		return $this->db->get($table);
 	}
+	function GetDataFromSP($DataSource, $Parameter)
+	{
+		$SQL = "CALL ".$DataSource."(".$Parameter.")";
+		// var_dump($SQL);
+		return $this->db->query($SQL);
+	}
 	function GetMax($table,$field)
 	{
 		// 1 : alredy, 0 : first input
